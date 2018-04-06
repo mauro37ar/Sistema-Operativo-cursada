@@ -5,15 +5,7 @@
 
     Unidad aritmético-lógica (UAL o ALU en inglés): realiza operaciones aritméticas y lógicas.
 
-    Registros de procesador: proveen operandos al UAL y almacenan los resultados obtenidos en el UAL
-
-Los procesadores vectoriales tienen múltiples procesadores que operan en paralelo, no tiene una unidad considerada central.
-
-¿Qué es y para qué sirve un registro?
-
-Un registro es una memoria de alta velocidad y poca capacidad, integrada en el microprocesador, que permite guardar transitoriamente y acceder a valores muy usados, generalmente en operaciones matemáticas.
-
-Los registros están en la cumbre de la jerarquía de memoria, y son la manera más rápida que tiene el sistema de almacenar datos. Los registros se miden generalmente por el número de bits que almacenan; por ejemplo, un "registro de 8 bits" o un "registro de 32 bits". 
+    Registros de procesador: proveen operandos al UAL y almacenan los resultados obtenidos en el 
 
 Instrucciones:
 
