@@ -59,6 +59,11 @@ instrucciones
 
 ¿Qué es una instrucción? Describa su composición y para qué sirve.
 
+Markdown
+Toggle Zen Mode
+Preview
+Toggle Mode
+
 Una instrucción es un conjunto de símbolos(que usualmente son caracteres) que representan una orden de operación o tratamiento de información para la computadora. Las instrucciones suelen realizarse con datos o actuar sobre estos. Un programa es un conjunto ordenado e instrucciones que se suministran al ordenador y le indican la tarea a realizar.
 
 Las instrucciones se forman con elementos o símbolos de un repertorio determinado y se construyen siguiendo unas reglas precisas. Al conjunto de símbolos y reglas sintácticas con las que se redactan los programas, se le denomina lenguaje de programación. Los circuitos de la computadora solo pueden leer instrucciones formadas por bits 0 y 1, que conforman un conocido lenguaje llamado maquina. Estos bits están agrupados en bloques o campos. En todas las instrucciones maquina existe un bloque que contiene el código de operación(un conjunto de bits que identifican la operación a realizar), y en la mayoría de ellas existe un bloque de dirección que contiene información para acceder al dato sobre el que actúa el bloque de operación.
@@ -152,9 +157,45 @@ Bus de datos: El bus de datos permite el intercambio de datos entre la CPU y el 
 
 ¿Que ventaja tiene un bus frente a otro si es más ancho?
 
+VIM:
 
+¿Qué es VIM?¿Para qué sirve? ¿Se considera buena herramienta?
 
+Vim, como su antecesor vi, se utiliza desde un terminal en modo texto. Se controla por completo mediante el teclado.
 
+Principales funcionalidades:
+
+Corrector ortográfico integrado
+Autocompletado de texto
+Navegación por pestañas
+Ventanas múltiples, que dividen el área de edición horizontal o verticalmente.
+Resaltado de sintaxis dependiente del lenguaje de programación o de etiquetas utilizado
+Órdenes deshacer y rehacer
+Comprensión de más de 200 sintaxis diferentes
+Lenguaje de scripting para programar extensiones
+Completado de órdenes, palabras y nombres de ficheros
+Compresión y descompresión de ficheros, que posibilita editar ficheros comprimidos
+Reconocimiento de formatos de fichero y conversión entre los mismos.
+Historial de órdenes ejecutadas
+Grabación y reproducción de macros
+Guardado de la configuración entre sesiones
+Plegado automático y manual de código
+Interfaz gráfica opcional
+Altamente configurable y personalizable
+Casi 100% compatible con vi, pero sin muchos de sus defectos
+
+Utilice VIM para desarrollar algún programa en cualquier lenguaje.
+
+Busque alguna hoja de datos (cheatsheet) de vim y traduzca alguna parte mientras la ejercita.
+
+Realice su propia hoja de datos de vim (ésta tarea le llevará todo el curso). En un documento de Drive o t para subir a Github vaya volcando cualquier conocimiento adquirido en el uso de VIM a medida que lo vaya utilizando.
+
+Busque algún video tutorial de VIM y traslade el conocimiento de al menos 30 minutos de video en una presentación de Google Drive.
+[Node.js](https://www.youtube.com/watch?v=WdSIcOiqWmg)
+1 [Node.js](https://www.youtube.com/watch?v=ddl8Y0MZHv8)
+2 [Node.js](https://www.youtube.com/watch?v=yrlgF1nk1Tc)
+3 [Node.js](https://www.youtube.com/watch?v=4QVg4IwOhxM)
+4 [Node.js](https://www.youtube.com/watch?v=pOiTtV2myzw)
 
 
 
