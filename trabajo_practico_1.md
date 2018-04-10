@@ -192,7 +192,7 @@ Realice su propia hoja de datos de vim (ésta tarea le llevará todo el curso). 
 
 Busque algún video tutorial de VIM y traslade el conocimiento de al menos 30 minutos de video en una presentación de Google Drive.
 [Node.js](https://www.youtube.com/watch?v=WdSIcOiqWmg)
-1 [Node.js](https://www.youtube.com/watch?v=ddl8Y0MZHv8)
+1 [Iniciación a VIM](https://www.youtube.com/watch?v=ddl8Y0MZHv8)
 2 [Node.js](https://www.youtube.com/watch?v=yrlgF1nk1Tc)
 3 [Node.js](https://www.youtube.com/watch?v=4QVg4IwOhxM)
 4 [Node.js](https://www.youtube.com/watch?v=pOiTtV2myzw)
